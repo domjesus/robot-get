@@ -1,0 +1,7 @@
+include
+Lib
+Perfil
+Scripts
+chromedriver.exe
+credentials.json
+pyvenv.cfg
